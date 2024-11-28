@@ -6,3 +6,5 @@ designed to offer key insights into various aspects of human resource management
 job distribution, gender diversity, salary trends, employee growth, and qualification impacts 
 on compensation. By leveraging powerful visualizations and analytical tools, it empowers HR 
 teams to identify patterns and enhance strategic planning. 
+
+Link to view dashboard: https://public.tableau.com/app/profile/chaithra.shree.p/viz/HRAnalysis1_17326937170510/Dashboard1?publish=yes
